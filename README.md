@@ -20,11 +20,11 @@ Before running this app, ensure you have the following installed:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/quill-audits-app.git
+   git clone https://github.com/rksperax/quillaudit-typescript.git
 
 2. Run the app run following commands
 
-    `cd quill-audits-app`
+    `cd quillaudit-typescript`
 
     `yarn install`
     
