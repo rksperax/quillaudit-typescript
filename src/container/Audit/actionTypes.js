@@ -1,0 +1,3 @@
+export const SELECT_FILE = 'SELECT_FILE'
+export const SET_FILE_CONTENT = 'SET_FILE_CONTENT'
+export const REMOVE_FILE = 'REMOVE_FILE'
